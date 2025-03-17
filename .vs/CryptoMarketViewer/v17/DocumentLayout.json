@@ -3,6 +3,22 @@
   "WorkspaceRootPath": "C:\\Users\\abie\\source\\repos\\CryptoMarketViewer\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{F9705545-32A3-42B9-9C7B-D5D5CB8E1A36}|CryptoMarketViewer\\CryptoMarketViewer.csproj|C:\\Users\\abie\\source\\repos\\CryptoMarketViewer\\cryptomarketviewer\\forms\\mainform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9705545-32A3-42B9-9C7B-D5D5CB8E1A36}|CryptoMarketViewer\\CryptoMarketViewer.csproj|solutionrelative:cryptomarketviewer\\forms\\mainform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9705545-32A3-42B9-9C7B-D5D5CB8E1A36}|CryptoMarketViewer\\CryptoMarketViewer.csproj|c:\\users\\abie\\source\\repos\\cryptomarketviewer\\cryptomarketviewer\\forms\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9705545-32A3-42B9-9C7B-D5D5CB8E1A36}|CryptoMarketViewer\\CryptoMarketViewer.csproj|solutionrelative:cryptomarketviewer\\forms\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9705545-32A3-42B9-9C7B-D5D5CB8E1A36}|CryptoMarketViewer\\CryptoMarketViewer.csproj|c:\\users\\abie\\source\\repos\\cryptomarketviewer\\cryptomarketviewer\\forms\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F9705545-32A3-42B9-9C7B-D5D5CB8E1A36}|CryptoMarketViewer\\CryptoMarketViewer.csproj|solutionrelative:cryptomarketviewer\\forms\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9705545-32A3-42B9-9C7B-D5D5CB8E1A36}|CryptoMarketViewer\\CryptoMarketViewer.csproj|C:\\Users\\abie\\source\\repos\\CryptoMarketViewer\\cryptomarketviewer\\services\\bitgetservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9705545-32A3-42B9-9C7B-D5D5CB8E1A36}|CryptoMarketViewer\\CryptoMarketViewer.csproj|solutionrelative:cryptomarketviewer\\services\\bitgetservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{F9705545-32A3-42B9-9C7B-D5D5CB8E1A36}|CryptoMarketViewer\\CryptoMarketViewer.csproj|c:\\users\\abie\\source\\repos\\cryptomarketviewer\\cryptomarketviewer\\forms\\mainform.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}",
       "RelativeMoniker": "D:0:0:{F9705545-32A3-42B9-9C7B-D5D5CB8E1A36}|CryptoMarketViewer\\CryptoMarketViewer.csproj|solutionrelative:cryptomarketviewer\\forms\\mainform.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}"
     },
@@ -11,16 +27,8 @@
       "RelativeMoniker": "D:0:0:{F9705545-32A3-42B9-9C7B-D5D5CB8E1A36}|CryptoMarketViewer\\CryptoMarketViewer.csproj|solutionrelative:cryptomarketviewer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F9705545-32A3-42B9-9C7B-D5D5CB8E1A36}|CryptoMarketViewer\\CryptoMarketViewer.csproj|C:\\Users\\abie\\source\\repos\\CryptoMarketViewer\\cryptomarketviewer\\services\\bitgetservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F9705545-32A3-42B9-9C7B-D5D5CB8E1A36}|CryptoMarketViewer\\CryptoMarketViewer.csproj|solutionrelative:cryptomarketviewer\\services\\bitgetservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{F9705545-32A3-42B9-9C7B-D5D5CB8E1A36}|CryptoMarketViewer\\CryptoMarketViewer.csproj|C:\\Users\\abie\\source\\repos\\CryptoMarketViewer\\cryptomarketviewer\\services\\binanceservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F9705545-32A3-42B9-9C7B-D5D5CB8E1A36}|CryptoMarketViewer\\CryptoMarketViewer.csproj|solutionrelative:cryptomarketviewer\\services\\binanceservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F9705545-32A3-42B9-9C7B-D5D5CB8E1A36}|CryptoMarketViewer\\CryptoMarketViewer.csproj|C:\\Users\\abie\\source\\repos\\CryptoMarketViewer\\cryptomarketviewer\\forms\\mainform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F9705545-32A3-42B9-9C7B-D5D5CB8E1A36}|CryptoMarketViewer\\CryptoMarketViewer.csproj|solutionrelative:cryptomarketviewer\\forms\\mainform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F9705545-32A3-42B9-9C7B-D5D5CB8E1A36}|CryptoMarketViewer\\CryptoMarketViewer.csproj|C:\\Users\\abie\\source\\repos\\CryptoMarketViewer\\cryptomarketviewer\\services\\kucoinservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -35,10 +43,6 @@
       "RelativeMoniker": "D:0:0:{F9705545-32A3-42B9-9C7B-D5D5CB8E1A36}|CryptoMarketViewer\\CryptoMarketViewer.csproj|solutionrelative:cryptomarketviewer\\services\\interfaces\\iexchangeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\abie\\source\\repos\\CryptoMarketViewer\\CryptoMarketViewer\\MainForm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CryptoMarketViewer\\MainForm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\abie\\source\\repos\\CryptoMarketViewer\\cryptomarketviewer\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:cryptomarketviewer\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
@@ -50,7 +54,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Bookmark",
@@ -66,7 +70,32 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
+              "Title": "MainForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\Users\\abie\\source\\repos\\CryptoMarketViewer\\CryptoMarketViewer\\Forms\\MainForm.cs",
+              "RelativeDocumentMoniker": "CryptoMarketViewer\\Forms\\MainForm.cs",
+              "ToolTip": "C:\\Users\\abie\\source\\repos\\CryptoMarketViewer\\CryptoMarketViewer\\Forms\\MainForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "CryptoMarketViewer\\Forms\\MainForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T08:41:13.666Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainForm.cs",
+              "DocumentMoniker": "C:\\Users\\abie\\source\\repos\\CryptoMarketViewer\\CryptoMarketViewer\\Forms\\MainForm.cs",
+              "RelativeDocumentMoniker": "CryptoMarketViewer\\Forms\\MainForm.cs",
+              "ToolTip": "C:\\Users\\abie\\source\\repos\\CryptoMarketViewer\\CryptoMarketViewer\\Forms\\MainForm.cs",
+              "RelativeToolTip": "CryptoMarketViewer\\Forms\\MainForm.cs",
+              "ViewState": "AQIAAD4AAAAAAAAAAAA7wEkAAABHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T08:40:48.876Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "MainForm.resx",
               "DocumentMoniker": "C:\\Users\\abie\\source\\repos\\CryptoMarketViewer\\CryptoMarketViewer\\Forms\\MainForm.resx",
               "RelativeDocumentMoniker": "CryptoMarketViewer\\Forms\\MainForm.resx",
@@ -78,30 +107,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "MainForm.cs",
-              "DocumentMoniker": "C:\\Users\\abie\\source\\repos\\CryptoMarketViewer\\CryptoMarketViewer\\MainForm.cs",
-              "RelativeDocumentMoniker": "CryptoMarketViewer\\MainForm.cs",
-              "ToolTip": "C:\\Users\\abie\\source\\repos\\CryptoMarketViewer\\CryptoMarketViewer\\MainForm.cs",
-              "RelativeToolTip": "CryptoMarketViewer\\MainForm.cs",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-17T07:11:17.478Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 0,
               "Title": "MainForm.Designer.cs",
               "DocumentMoniker": "C:\\Users\\abie\\source\\repos\\CryptoMarketViewer\\CryptoMarketViewer\\Forms\\MainForm.Designer.cs",
               "RelativeDocumentMoniker": "CryptoMarketViewer\\Forms\\MainForm.Designer.cs",
               "ToolTip": "C:\\Users\\abie\\source\\repos\\CryptoMarketViewer\\CryptoMarketViewer\\Forms\\MainForm.Designer.cs",
               "RelativeToolTip": "CryptoMarketViewer\\Forms\\MainForm.Designer.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAFAAAA",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAgwBQAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-17T07:08:48.564Z"
+              "WhenOpened": "2025-03-17T07:08:48.564Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 5,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\abie\\source\\repos\\CryptoMarketViewer\\CryptoMarketViewer\\Program.cs",
               "RelativeDocumentMoniker": "CryptoMarketViewer\\Program.cs",
@@ -113,7 +132,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "BitgetService.cs",
               "DocumentMoniker": "C:\\Users\\abie\\source\\repos\\CryptoMarketViewer\\CryptoMarketViewer\\Services\\BitgetService.cs",
               "RelativeDocumentMoniker": "CryptoMarketViewer\\Services\\BitgetService.cs",
@@ -121,11 +140,12 @@
               "RelativeToolTip": "CryptoMarketViewer\\Services\\BitgetService.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-17T06:59:36.153Z"
+              "WhenOpened": "2025-03-17T06:59:36.153Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 7,
               "Title": "KucoinService.cs",
               "DocumentMoniker": "C:\\Users\\abie\\source\\repos\\CryptoMarketViewer\\CryptoMarketViewer\\Services\\KucoinService.cs",
               "RelativeDocumentMoniker": "CryptoMarketViewer\\Services\\KucoinService.cs",
@@ -137,7 +157,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 8,
               "Title": "BybitService.cs",
               "DocumentMoniker": "C:\\Users\\abie\\source\\repos\\CryptoMarketViewer\\CryptoMarketViewer\\Services\\BybitService.cs",
               "RelativeDocumentMoniker": "CryptoMarketViewer\\Services\\BybitService.cs",
@@ -149,7 +169,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 6,
               "Title": "BinanceService.cs",
               "DocumentMoniker": "C:\\Users\\abie\\source\\repos\\CryptoMarketViewer\\CryptoMarketViewer\\Services\\BinanceService.cs",
               "RelativeDocumentMoniker": "CryptoMarketViewer\\Services\\BinanceService.cs",
@@ -161,7 +181,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 9,
               "Title": "IExchangeService.cs",
               "DocumentMoniker": "C:\\Users\\abie\\source\\repos\\CryptoMarketViewer\\CryptoMarketViewer\\Services\\Interfaces\\IExchangeService.cs",
               "RelativeDocumentMoniker": "CryptoMarketViewer\\Services\\Interfaces\\IExchangeService.cs",
@@ -173,7 +193,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "MainForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
               "DocumentMoniker": "C:\\Users\\abie\\source\\repos\\CryptoMarketViewer\\CryptoMarketViewer\\MainForm.cs",
               "RelativeDocumentMoniker": "CryptoMarketViewer\\MainForm.cs",

@@ -13,10 +13,13 @@ namespace CryptoMarketViewer.Forms
         private readonly IExchangeService _kucoinService = new KucoinService();
         private readonly IExchangeService _bitgetService = new BitgetService();
 
+        private readonly Timer _timer = new Timer(); // Таймер для обновления котировок
+
         public MainForm()
         {
             InitializeComponent();
             SetupForm();
+            SetupTimer();
         }
 
         private void SetupForm()
@@ -34,15 +37,6 @@ namespace CryptoMarketViewer.Forms
             comboBoxSymbol.Items.AddRange(new string[] { "BTCUSDT", "ETHUSDT", "BNBUSDT" });
             comboBoxSymbol.SelectedIndex = 0;
 
-            // Кнопка для получения цен
-            var buttonGetPrices = new Button
-            {
-                Location = new System.Drawing.Point(180, 20),
-                Size = new System.Drawing.Size(100, 23),
-                Text = "Get Prices"
-            };
-            buttonGetPrices.Click += async (sender, e) => await GetPricesAsync(comboBoxSymbol.SelectedItem.ToString());
-
             // Метки для отображения цен
             var labelBinance = new Label { Location = new System.Drawing.Point(20, 60), AutoSize = true, Text = "Binance: N/A" };
             var labelBybit = new Label { Location = new System.Drawing.Point(20, 90), AutoSize = true, Text = "Bybit: N/A" };
@@ -51,11 +45,27 @@ namespace CryptoMarketViewer.Forms
 
             // Добавление элементов на форму
             this.Controls.Add(comboBoxSymbol);
-            this.Controls.Add(buttonGetPrices);
             this.Controls.Add(labelBinance);
             this.Controls.Add(labelBybit);
             this.Controls.Add(labelKucoin);
             this.Controls.Add(labelBitget);
+        }
+
+        private void SetupTimer()
+        {
+            _timer.Interval = 5000; // Интервал в миллисекундах (5 секунд)
+            _timer.Tick += Timer_Tick; // Подписываемся на событие Tick
+            _timer.Start(); // Запускаем таймер
+        }
+
+        private async void Timer_Tick(object sender, EventArgs e)
+        {
+            // Получаем выбранную пару из ComboBox
+            var comboBoxSymbol = this.Controls[0] as ComboBox;
+            string symbol = comboBoxSymbol?.SelectedItem?.ToString() ?? "BTCUSDT";
+
+            // Получаем и обновляем котировки
+            await GetPricesAsync(symbol);
         }
 
         private async Task GetPricesAsync(string symbol)
@@ -66,15 +76,10 @@ namespace CryptoMarketViewer.Forms
             var bitgetPrice = await _bitgetService.GetPriceAsync(symbol);
 
             // Обновление меток
-            this.Controls[2].Text = $"Binance: {binancePrice?.ToString() ?? "N/A"}";
-            this.Controls[3].Text = $"Bybit: {bybitPrice?.ToString() ?? "N/A"}";
-            this.Controls[4].Text = $"Kucoin: {kucoinPrice?.ToString() ?? "N/A"}";
-            this.Controls[5].Text = $"Bitget: {bitgetPrice?.ToString() ?? "N/A"}";
-        }
-
-        private void MainForm_Load(object sender, EventArgs e)
-        {
-
+            this.Controls[1].Text = $"Binance: {binancePrice?.ToString() ?? "N/A"}";
+            this.Controls[2].Text = $"Bybit: {bybitPrice?.ToString() ?? "N/A"}";
+            this.Controls[3].Text = $"Kucoin: {kucoinPrice?.ToString() ?? "N/A"}";
+            this.Controls[4].Text = $"Bitget: {bitgetPrice?.ToString() ?? "N/A"}";
         }
     }
 }
