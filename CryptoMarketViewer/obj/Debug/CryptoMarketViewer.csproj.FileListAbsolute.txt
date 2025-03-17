@@ -1,0 +1,5 @@
+C:\Users\abie\source\repos\CryptoMarketViewer\CryptoMarketViewer\obj\Debug\CryptoMarketViewer.csproj.AssemblyReference.cache
+C:\Users\abie\source\repos\CryptoMarketViewer\CryptoMarketViewer\obj\Debug\CryptoMarketViewer.Properties.Resources.resources
+C:\Users\abie\source\repos\CryptoMarketViewer\CryptoMarketViewer\obj\Debug\CryptoMarketViewer.csproj.GenerateResource.cache
+C:\Users\abie\source\repos\CryptoMarketViewer\CryptoMarketViewer\obj\Debug\CryptoMarketViewer.csproj.CoreCompileInputs.cache
+C:\Users\abie\source\repos\CryptoMarketViewer\CryptoMarketViewer\obj\Debug\CryptoMarketViewer.Forms.MainForm.resources
